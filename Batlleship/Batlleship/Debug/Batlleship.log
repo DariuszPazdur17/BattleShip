@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+D:\Projekty\Batlleship\Batlleship\shipk.h(12,22): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\windef.h(178,3): error C2371: "POINT": zmiana definicji; różne typy podstawowe
+D:\Projekty\Batlleship\Batlleship\shipk.h(17): message : zobacz deklarację „POINT”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(6478,1): warning C4624: „tagPOINTER_TYPE_INFO”: destruktor został niejawnie zdefiniowany jako usunięty
