@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Projekty\client-tcp\client-tcp\Main.cpp(10,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  client-tcp.vcxproj -> D:\Projekty\client-tcp\Debug\client-tcp.exe
